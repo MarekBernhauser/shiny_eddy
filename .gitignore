@@ -37,3 +37,6 @@ rsconnect/
 
 # pdf results
 *.pdf
+
+Level\ 2/Quality\ checking/Precheck/*
+Level\ 2/Quality\ checking/QC_summary/*
